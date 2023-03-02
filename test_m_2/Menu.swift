@@ -8,6 +8,6 @@
 import Foundation
 
 protocol Menu {
-    func startGame()
-    func endGame()
+    func startgame()
+    func endgame()
 }

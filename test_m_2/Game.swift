@@ -8,11 +8,11 @@
 import Foundation
 
 class Game: Menu {
-    func startGame() {
+    func startgame() {
         return
     }
     
-    func endGame() {
+    func endgame() {
         return
     }
 }
